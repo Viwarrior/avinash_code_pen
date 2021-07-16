@@ -9,18 +9,18 @@ https://viwarrior.github.io/avinash_code_pen/
 
 clone the main branch-
 ```
-git clone https://github.com/Viwarrior/avinash_code_pen.git
+> git clone https://github.com/Viwarrior/avinash_code_pen.git
 ```
 
 Install node modules
 ```
-npm install
-npm i codemirror react-codemirror2
+> npm install
+> npm i codemirror react-codemirror2
 ```
 
 Start the application
 ```
-npm start
+> npm start
 ```
 
 # Packages Used
