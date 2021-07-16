@@ -7,7 +7,7 @@ https://viwarrior.github.io/avinash_code_pen/
 
 # Installation
 ```
-git clone https://github.com/thanhtungdp/react-native-gift-app
+git clone https://github.com/Viwarrior/avinash_code_pen.git
 ```
 Then in root directory run the application
 
