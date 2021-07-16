@@ -26,6 +26,6 @@ npm start
 * code editor with syntax highlighter
 
 # About the Author
-Name - Avinash
-mail - avinash.2018@vitstudent.ac.in
+*Name - Avinash
+*mail - avinash.2018@vitstudent.ac.in
 
