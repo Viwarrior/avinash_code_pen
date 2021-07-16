@@ -5,12 +5,20 @@ Dyte placement for VIT (2022 Batch). Front end category - code editor implementa
 
 https://viwarrior.github.io/avinash_code_pen/
 
-# Installation
+# Running locally
+
+clone the main branch-
 ```
 git clone https://github.com/Viwarrior/avinash_code_pen.git
 ```
-Then in root directory run the application
 
+Install node modules
+```
+npm install
+npm i codemirror react-codemirror2
+```
+
+Start the application
 ```
 npm start
 ```
