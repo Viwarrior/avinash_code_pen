@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Code_editor_dyte_submission
+Dyte placement for VIT (2022 Batch). Front end category - code editor implementation using react.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aim
+* To create a online code editor using react.
+* Focus on simplicity, requirements, code readability and security.
+* Less focus on design and aesthetics.
 
-## Available Scripts
+# Github pages link (deployed)
 
-In the project directory, you can run:
+https://viwarrior.github.io/avinash_code_pen/
 
-### `npm start`
+# About the Application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Choose file to edit from the file explorer present at the top.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/59113057/126027548-1092d90d-76ef-4878-85fc-bfd816dbf2e5.png)
 
-### `npm test`
+* Write your code in the editor below.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/59113057/126027557-f9a78f8e-b1e6-4259-9f94-487f8e516545.png)
 
-### `npm run build`
+* Change file using the buttons with file names at the top.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/59113057/126027593-8dfa9fb0-27ce-441e-97a0-397e957712c6.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* See output rendered at the bottom half of the screen.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/59113057/126027574-b1f162a2-c939-4f23-87b1-da2572fd795d.png)
+<br />
 
-### `npm run eject`
+# Running locally
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+clone the main branch-
+```
+> git clone https://github.com/Viwarrior/avinash_code_pen.git
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install node modules
+```
+> npm install
+> npm i codemirror react-codemirror2
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Start the application
+```
+> npm start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Packages Used
+* codemirror
+* react-codemirror2
 
-## Learn More
+# Project features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Hot reload
+* file explorer bar at the top
+* code editor with syntax highlighter
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# About the Author
+* Name - Avinash
+* mail - avinash.2018@vitstudent.ac.in
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
