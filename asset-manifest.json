@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avinash_code_pen/static/css/main.fb3a4292.chunk.css",
+    "main.css": "/avinash_code_pen/static/css/main.2610d0e1.chunk.css",
     "main.js": "/avinash_code_pen/static/js/main.4fbc1541.chunk.js",
     "main.js.map": "/avinash_code_pen/static/js/main.4fbc1541.chunk.js.map",
     "runtime-main.js": "/avinash_code_pen/static/js/runtime-main.817935c7.js",
@@ -10,14 +10,14 @@
     "static/js/2.bc49f712.chunk.js.map": "/avinash_code_pen/static/js/2.bc49f712.chunk.js.map",
     "index.html": "/avinash_code_pen/index.html",
     "static/css/2.3ceb25c6.chunk.css.map": "/avinash_code_pen/static/css/2.3ceb25c6.chunk.css.map",
-    "static/css/main.fb3a4292.chunk.css.map": "/avinash_code_pen/static/css/main.fb3a4292.chunk.css.map",
+    "static/css/main.2610d0e1.chunk.css.map": "/avinash_code_pen/static/css/main.2610d0e1.chunk.css.map",
     "static/js/2.bc49f712.chunk.js.LICENSE.txt": "/avinash_code_pen/static/js/2.bc49f712.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.817935c7.js",
     "static/css/2.3ceb25c6.chunk.css",
     "static/js/2.bc49f712.chunk.js",
-    "static/css/main.fb3a4292.chunk.css",
+    "static/css/main.2610d0e1.chunk.css",
     "static/js/main.4fbc1541.chunk.js"
   ]
 }
